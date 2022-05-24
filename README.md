@@ -3,4 +3,4 @@ the assignment application that our visual programming teacher requested (then r
 
 I used .NET framework 4.6 for compatibility.
 
-there're some unnecessary code that I added for fun, please delete those if you want to copypaste the whole project.
+there're some unnecessary lines of code that I added for fun, please delete those if you want to copypaste the whole project.
